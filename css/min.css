@@ -1,8 +1,4 @@
-* 
-    {
-    margin: 50px;
 
-    }
 
 body
     {
@@ -11,10 +7,23 @@ body
  
 img 
     {
-    height: 300px;    
+    height: 300px; 
+    padding-left: 42vw;
     } 
     
 button
     {
-    font-size: x-large;    
+    font-size: x-large; 
+       
     }    
+nav{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  }
+  #buttons{
+    justify-content: space-between;
+    padding-left: 37vw;
+  }
